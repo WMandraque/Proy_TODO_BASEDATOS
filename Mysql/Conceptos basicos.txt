@@ -1,0 +1,4 @@
+
+
+EN mysql:
+int e integer son los mismos!!!
